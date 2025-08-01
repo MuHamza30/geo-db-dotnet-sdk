@@ -51,11 +51,11 @@ in your apps!
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package GeoDbSDK --version 1.0.0
+dotnet add package GeodbSDK --version 1.0.0
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/GeoDbSDK/1.0.0
+https://www.nuget.org/packages/GeodbSDK/1.0.0
 
 ## Initialize the API Client
 

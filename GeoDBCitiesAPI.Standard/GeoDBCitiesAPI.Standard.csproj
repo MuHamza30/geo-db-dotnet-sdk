@@ -8,21 +8,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>GeoDbSDK</AssemblyName>
+    <AssemblyName>GeodbSDK</AssemblyName>
     <Version>1.0.0.0</Version>
-    <Authors>Hamza Shahzad</Authors>
+    <Authors>Muhammad Hamza Shahzad</Authors>
     <Owners></Owners>
     <Product>GeoDBCitiesAPI.Standard</Product>
     <Copyright>Copyright ©  2019</Copyright>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
-    <Description>The GeoDB API provides access to geographical and location data.</Description>
+    <Description>GeoDB Cities API provides comprehensive global city and region data with filtering by name, country, location, and population, supporting multiple languages and offering detailed geographic information including coordinates, elevation, and timezone data.</Description>
     <LangVersion>7.3</LangVersion>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-    <PackageId>GeoDbSDK</PackageId>
+    <PackageId>GeodbSDK</PackageId>
     <RepositoryUrl>https://github.com/MuHamza30/geo-db-dotnet-sdk.git</RepositoryUrl>
     <PackRepositoryTypeageId>git</PackRepositoryTypeageId>
-    <PackageProjectUrl>https://geodb-cities-api.wirefreethought.com/</PackageProjectUrl>
+    <PackageProjectUrl>https://docs.apimatic.io/</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
 
